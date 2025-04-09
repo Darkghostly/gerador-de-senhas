@@ -20,4 +20,4 @@ Este é um simples gerador de senhas aleatórias, desenvolvido com HTML, CSS e J
 ## Exemplo de Senha Gerada
 
 Aqui está um exemplo de senha que o gerador pode criar:
-
+F7#k9mLpQ2$1Kx8V6jzN0!4FvW
